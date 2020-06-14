@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-XunFei.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\VR_CLASSROOM\VR_TEST\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\VR_CLASSROOM\VR_TEST\Plugins\XunFei\Intermediate\Build\Win64\UE4Editor\Development\XunFei\Module.XunFei.cpp.obj"
+"D:\VR_CLASSROOM\VR_TEST\Plugins\XunFei\Intermediate\Build\Win64\UE4Editor\Development\XunFei\Module.XunFei.gen.cpp.obj"
+"D:\VR_CLASSROOM\VR_TEST\Plugins\XunFei\Intermediate\Build\Win64\UE4Editor\Development\XunFei\Default.rc2.res"
+/OUT:"D:\VR_CLASSROOM\VR_TEST\Plugins\XunFei\Intermediate\Build\Win64\UE4Editor\Development\XunFei\UE4Editor-XunFei.lib"
+/INCLUDE:IMPLEMENT_MODULE_XunFei
